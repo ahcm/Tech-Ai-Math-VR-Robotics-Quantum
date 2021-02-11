@@ -84,4 +84,5 @@ Collection of links from Jesica Reesby's clubhouse room and telegram channel.
 - "Brain" In A Dish Acts As Autopilot Living Computer, https://research.ufl.edu/publications/explore/v10n1/extract2.html
 - weapon system category in which the munition loiters around the target area for some time, https://en.m.wikipedia.org/wiki/Loitering_munition
 - VOCALOID - the modern singing synthesizer, http://www.vocaloid.com/en/
+- How to apply machine learning and deep learning methods to audio analysis, https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc
 
