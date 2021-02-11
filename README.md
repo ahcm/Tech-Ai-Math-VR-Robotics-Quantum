@@ -74,3 +74,4 @@ Collection of links from Jesica Reesby's clubhouse room and telegram channel.
 - https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgzkek/machines-are-inventing-new-math-weve-never-seen
 - https://www.livereal.com/spiritual/master-game/
 - https://bitcoin.org/bitcoin.pdf
+- https://verus.io/
