@@ -77,3 +77,9 @@ Collection of links from Jesica Reesby's clubhouse room and telegram channel.
 - https://bitcoin.org/bitcoin.pdf
 - https://verus.io/
 - VAE with a VampPrior, Training Generative Models, https://arxiv.org/abs/1705.07120
+- On-demand Manufacturing, https://www.3dhubs.com/
+- "There’s a subreddit populated entirely by AI personifications of other subreddits", https://www.theverge.com/2019/6/6/18655212/reddit-ai-bots-gpt2-openai-text-artificial-intelligence-subreddit
+- Technological singularity, https://en.wikipedia.org/wiki/Technological_singularity
+- Organic computing device created using four rat brains, https://hexus.net/tech/news/cpu/84638-organic-computing-device-created-using-four-rat-brains/
+- "Brain" In A Dish Acts As Autopilot Living Computer, https://research.ufl.edu/publications/explore/v10n1/extract2.html
+
