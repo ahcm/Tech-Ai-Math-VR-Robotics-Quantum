@@ -1,1 +1,77 @@
 # Tech-Ai-Math-VR-Robotics-Quantum
+
+Collection of links from Jesica Reesby's clubhouse room and telegram channel.
+
+- Deep Learning with Python by François Chollet, https://fchollet.com/
+- Python Notebooks at google research: https://colab.research.google.com
+- papers with code, https://paperswithcode.com/, datasets: https://paperswithcode.com/datasets
+- AWS deepracer, https://aws.amazon.com/de/deepracer/
+- On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Hawkins, Jeff, Blakeslee, Sandra https://smile.amazon.de/Intelligence-Understanding-Creation-Intelligent-Machines-ebook/dp/B003J4VE5Y
+- https://Runawayml.com
+- https://Coral.ai
+- Tiny ML, https://www.oreilly.com/library/view/tinyml/9781492052036/
+- neom.com
+- AI Superpowers, https://www.aisuperpowers.com/
+- X state ?
+- Danielle chronicles of a superhuman, https://danielleworld.com/danielle-chronicles-of-a-superheroine/
+- MagPi, Rasperry Pi magazine, https://magpi.raspberrypi.org/issues
+- Risc V, open RISC CPU architecure, https://riscv.org/
+- Hotspot building Internet of Things on the blockchain, https://www.helium.com/
+- 21st Century C, https://www.oreilly.com/library/view/21st-century-c/9781491904428/
+- Bartek's coding blog, Modern C++, https://www.bfilipek.com/
+- Rust Programming Language, https://www.rust-lang.org/
+- VirtuaVerse
+- http://custom-build-robots.com
+- https://robotacademy.net.au/
+- Robot Operating System, Linux distribution, https://www.ros.org/
+- https://www.tinygiant.io/
+- Whisky, https://mackmyra.com/
+- https://www.adafruit.com/
+- https://www.sparkfun.com/
+- https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500
+- https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/
+- https://www.seeedstudio.com/blog/
+- https://openmv.io/
+- https://coral.ai
+- PoseNet model for pose estimation, https://github.com/tensorflow/tfjs-models/tree/master/posenet
+- https://childgrowthmonitor.org/
+- https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html
+- https://blogs.nvidia.com/blog/2020/12/07/neurips-research-limited-data-gan/
+- Quantum Memories - Refik Anadol Art; https://refikanadol.com/works/quantummemories/, https://mymodernmet.com/refik-anadol-quantum-memories/
+- https://github.com/tensorflow/models/tree/master/research/object_detection
+- https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb
+- https://github.com/EleutherAI/gpt-neo
+- https://play.aidungeon.io/
+- https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html?m=1
+- https://towardsdatascience.com/t5-a-model-that-explores-the-limits-of-transfer-learning-fb29844890b7
+- https://www.connectedpapers.com/
+- https://www.foreignaffairs.com/articles/united-states/2021-02-10/technology-innovation-wars
+- http://MxDusa.org
+- https://www.levelshealth.com/
+- https://www.embs.org/ojemb/articles/covid-19-artificial-intelligence-diagnosis-using-only-cough-recordings/
+- "End-to-End CNN+LSTM Deep Learning Approach for Bearing Fault Diagnosis", https://arxiv.org/pdf/1909.07801.pdf
+- https://link.medium.com/PZe85t0pMdb
+- https://coral.ai/products/accelerator-module
+- https://www.usni.org/magazines/proceedings/2021/february/lessons-learned-helm-department-navy
+- https://www.nvidia.com/en-sg/design-visualization/technologies/holodeck/
+- https://academy.titansofcnc.com/
+- https://store.ui.com/collections/unifi-network-routing-switching/products/unifi-dream-machine
+- https://store.ui.com/collections/unifi-network-routing-switching/products/udm-pro
+- https://www.theatlantic.com/magazine/archive/2018/10/yuval-noah-harari-technology-tyranny/568330/
+- https://towardsdatascience.com/understanding-alphago-how-ai-thinks-and-learns-advanced-d70780744dae
+- https://www.springerprofessional.de/en/applying-sound-based-analysis-at-porsche-production-towards-pred/16140782
+- Lab Tutorial: Multi-Objective Decision Making, https://youtu.be/_zJ_cbg3TzY
+- https://www.spacialists.com/work/cabin
+- https://www.blackrock.com/us/individual
+- https://www.burstiq.com/technology/
+- spaCy · Industrial-strength Natural Language Processing in Python, https://spacy.io/
+- https://www.nltk.org
+- https://www.forbes.com/sites/erictegler/2020/12/16/an-ai-co-pilot-called-artujust-took-command-of-a-u-2s-sensor-systems-on-a-reconnaissance-mission/?sh=75049f0c61f0
+- https://shunsukesaito.github.io/PIFu/
+- “The Fourth Industrial Revolution” by Klaus Schwab, https://smile.amazon.de/The-Fourth-Industrial-Revolution/dp/B01N0SXAA4, https://medium.com/world-of-iot/the-fourth-industrial-revolution-by-klaus-schwab-a-book-summary-part-1-eee620ebc1f4
+- https://github.com/ourownstory/neural_prophet
+- https://shunsukesaito.github.io/PIFu/
+- https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgzkek/machines-are-inventing-new-math-weve-never-seen
+- https://www.livereal.com/spiritual/master-game/
+
+
