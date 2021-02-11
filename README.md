@@ -82,4 +82,6 @@ Collection of links from Jesica Reesby's clubhouse room and telegram channel.
 - Technological singularity, https://en.wikipedia.org/wiki/Technological_singularity
 - Organic computing device created using four rat brains, https://hexus.net/tech/news/cpu/84638-organic-computing-device-created-using-four-rat-brains/
 - "Brain" In A Dish Acts As Autopilot Living Computer, https://research.ufl.edu/publications/explore/v10n1/extract2.html
+- weapon system category in which the munition loiters around the target area for some time, https://en.m.wikipedia.org/wiki/Loitering_munition
+- VOCALOID - the modern singing synthesizer, http://www.vocaloid.com/en/
 
