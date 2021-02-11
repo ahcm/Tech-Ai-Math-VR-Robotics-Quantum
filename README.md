@@ -40,6 +40,7 @@ Collection of links from Jesica Reesby's clubhouse room and telegram channel.
 - Quantum Memories - Refik Anadol Art; https://refikanadol.com/works/quantummemories/, https://mymodernmet.com/refik-anadol-quantum-memories/
 - https://github.com/tensorflow/models/tree/master/research/object_detection
 - https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb
+- Community spaces, https://www.feminist.ai/
 - https://github.com/EleutherAI/gpt-neo
 - https://play.aidungeon.io/
 - https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html?m=1
