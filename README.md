@@ -75,3 +75,4 @@ Collection of links from Jesica Reesby's clubhouse room and telegram channel.
 - https://www.livereal.com/spiritual/master-game/
 - https://bitcoin.org/bitcoin.pdf
 - https://verus.io/
+- VAE with a VampPrior, Training Generative Models, https://arxiv.org/abs/1705.07120
