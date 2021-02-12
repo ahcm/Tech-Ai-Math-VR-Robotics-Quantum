@@ -102,4 +102,17 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - Interactive Server/Client Webapps, https://shiny.rstudio.com/
 - Python Dependency manager poetry, https://python-poetry.org
 - Do not use MNIST anymore, use e.g. https://github.com/zalandoresearch/fashion-mnist
+- Cephalopod Brains, https://www.frontiersin.org/articles/10.3389/fphys.2018.00952/full, https://www.scienceworld.ca/stories/bizarre-brains-animal-kingdom/
+- How a quantum computer could break 2048-bit RSA encryption in 8 hours, https://www.technologyreview.com/2019/05/30/65724/how-a-quantum-computer-could-break-2048-bit-rsa-encryption-in-8-hours/
+- Regularization in Maachine Learning, https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+- https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
+- https://www.futurelearn.com/subjects/science-engineering-and-maths-courses
+- GPDR, https://gdpr.eu/, https://insights.comforte.com/12-countries-with-gdpr-like-data-privacy-laws
+- https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics
+- https://www.newslaundry.com/2020/04/14/should-private-hospitals-and-labs-be-nationalised-to-fight-the-coronavirus-pandemic
+- https://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/our-insights/real-world-evidence-from-activity-to-impact-in-healthcare-decision-making#
+- https://www.crn.com/news/components-peripherals/why-google-cloud-built-confidential-vms-with-amd-epyc
+- https://community.amd.com/t5/amd-business-blog/amd-epyc-processor-powered-google-cloud-confidential-vms-show/ba-p/414267
+- https://accredify.io/
+- https://www.sginnovate.com/pressroom/sginnovate-venture-building-project-leverages-blockchain-technology-personal-covid-19
 
