@@ -123,4 +123,6 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - Attention is all you need: Discovering the Transformer, https://arxiv.org/abs/1706.03762, https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634
 - LSTM is dead!  Long Live Transformers!, https://www.youtube.com/watch?v=LwV7LKunDbs
 - Ethical Obligations to Protect Client Data when Building Artificial Intelligence Tools: Wigmore Meets AI, https://www.americanbar.org/groups/professional_responsibility/publications/professional_lawyer/27/1/ethical-obligations-protect-client-data-when-building-artificial-intelligence-tools-wigmore-meets-ai/
+- world economic forum predicting 50% automation of jobs etc., http://www3.weforum.org/docs/WEF_NES_Resetting_FOW_Agenda_2020.pdf
+- Coral USB Accelerator vs Intel Neural Compute Stick 2, https://www.arrow.com/en/research-and-events/articles/google-coral-edge-tpu-accelerator-vs-intel-neural-compute-stick-2
 - 
