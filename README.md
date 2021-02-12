@@ -7,6 +7,7 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - papers with code, https://paperswithcode.com/, datasets: https://paperswithcode.com/datasets
 - AWS deepracer, https://aws.amazon.com/de/deepracer/
 - On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Hawkins, Jeff, Blakeslee, Sandra https://smile.amazon.de/Intelligence-Understanding-Creation-Intelligent-Machines-ebook/dp/B003J4VE5Y, https://numenta.com/,  https://www.analyticsvidhya.com/blog/2018/05/alternative-deep-learning-hierarchical-temporal-memory-htm-unsupervised-learning/
+- Primary Evidence of a Donut-Like, Fourth Spatial Dimension in the Brain, https://www.biorxiv.org/content/10.1101/072397v1.full
 - https://Runawayml.com
 - https://Coral.ai
 - Tiny ML, https://www.oreilly.com/library/view/tinyml/9781492052036/
@@ -118,3 +119,8 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, https://arxiv.org/abs/2003.03384, https://ai.googleblog.com/2020/07/automl-zero-evolving-code-that-learns.html
 - Moravec's paradox, https://en.m.wikipedia.org/wiki/Moravec%27s_paradox
 - SpiNNaker is a novel computer architecture, http://apt.cs.manchester.ac.uk/projects/SpiNNaker/
+- Language Models are Few-Shot Learners, https://arxiv.org/abs/2005.14165
+- Attention is all you need: Discovering the Transformer, https://arxiv.org/abs/1706.03762, https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634
+- LSTM is dead!  Long Live Transformers!, https://www.youtube.com/watch?v=LwV7LKunDbs
+- Ethical Obligations to Protect Client Data when Building Artificial Intelligence Tools: Wigmore Meets AI, https://www.americanbar.org/groups/professional_responsibility/publications/professional_lawyer/27/1/ethical-obligations-protect-client-data-when-building-artificial-intelligence-tools-wigmore-meets-ai/
+- 
