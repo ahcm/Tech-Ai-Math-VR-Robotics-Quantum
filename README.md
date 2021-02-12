@@ -86,4 +86,15 @@ Collection of links from Jesica Reesby's clubhouse room and telegram channel.
 - VOCALOID - the modern singing synthesizer, http://www.vocaloid.com/en/
 - How to apply machine learning and deep learning methods to audio analysis, https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc
 - Music generation, https://popgun.ai/
-
+- DDSP: Differentiable Digital Signal Processing, https://magenta.tensorflow.org/ddsp
+- mouse brain, https://twitter.com/erturklab/status/1016956318660390912
+- Why libtorch?, https://g-airborne.com/bringing-your-deep-learning-model-to-production-with-libtorch-part-1-why-libtorch/
+- early natural language processing computer program, created to demonstrate the superficiality of communication between humans and machines, https://en.m.wikipedia.org/wiki/ELIZA
+- Accelerating industry transformation with the power of AI, https://cloud.google.com/blog/topics/inside-google-cloud/accelerating-industry-transformation-with-the-power-of-ai
+- Pervasive and Ubiquitous Awards, http://ubicomp.org/sc/awards.html
+- Dialogflow, dialog services, https://cloud.google.com/dialogflow/
+- Image "Cloaking" for Personal Privacy, http://sandlab.cs.uchicago.edu/fawkes/
+- Deep learning has a size problem, https://heartbeat.fritz.ai/deep-learning-has-a-size-problem-ea601304cd8
+- BlenderBot, https://huggingface.co/transformers/master/model_doc/blenderbot.html
+- AI Market, https://singularitynet.io/
+- SETI at Home, https://setiathome.berkeley.edu/sah_about.php
