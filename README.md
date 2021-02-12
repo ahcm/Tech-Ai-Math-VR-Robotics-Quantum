@@ -6,7 +6,7 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - Python Notebooks at google research: https://colab.research.google.com
 - papers with code, https://paperswithcode.com/, datasets: https://paperswithcode.com/datasets
 - AWS deepracer, https://aws.amazon.com/de/deepracer/
-- On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Hawkins, Jeff, Blakeslee, Sandra https://smile.amazon.de/Intelligence-Understanding-Creation-Intelligent-Machines-ebook/dp/B003J4VE5Y
+- On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Hawkins, Jeff, Blakeslee, Sandra https://smile.amazon.de/Intelligence-Understanding-Creation-Intelligent-Machines-ebook/dp/B003J4VE5Y, https://numenta.com/,  https://www.analyticsvidhya.com/blog/2018/05/alternative-deep-learning-hierarchical-temporal-memory-htm-unsupervised-learning/
 - https://Runawayml.com
 - https://Coral.ai
 - Tiny ML, https://www.oreilly.com/library/view/tinyml/9781492052036/
