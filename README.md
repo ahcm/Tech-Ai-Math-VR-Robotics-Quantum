@@ -115,4 +115,4 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - https://community.amd.com/t5/amd-business-blog/amd-epyc-processor-powered-google-cloud-confidential-vms-show/ba-p/414267
 - https://accredify.io/
 - https://www.sginnovate.com/pressroom/sginnovate-venture-building-project-leverages-blockchain-technology-personal-covid-19
-
+- AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, https://arxiv.org/abs/2003.03384, https://ai.googleblog.com/2020/07/automl-zero-evolving-code-that-learns.html
