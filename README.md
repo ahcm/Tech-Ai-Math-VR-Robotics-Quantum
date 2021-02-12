@@ -117,3 +117,4 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - https://www.sginnovate.com/pressroom/sginnovate-venture-building-project-leverages-blockchain-technology-personal-covid-19
 - AutoML-Zero: Evolving Machine Learning Algorithms From Scratch, https://arxiv.org/abs/2003.03384, https://ai.googleblog.com/2020/07/automl-zero-evolving-code-that-learns.html
 - Moravec's paradox, https://en.m.wikipedia.org/wiki/Moravec%27s_paradox
+- SpiNNaker is a novel computer architecture, http://apt.cs.manchester.ac.uk/projects/SpiNNaker/
