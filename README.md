@@ -101,3 +101,5 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - Plotting in R, https://ggplot2.tidyverse.org/
 - Interactive Server/Client Webapps, https://shiny.rstudio.com/
 - Python Dependency manager poetry, https://python-poetry.org
+- Do not use MNIST anymore, use e.g. https://github.com/zalandoresearch/fashion-mnist
+
