@@ -126,4 +126,4 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - world economic forum predicting 50% automation of jobs etc., http://www3.weforum.org/docs/WEF_NES_Resetting_FOW_Agenda_2020.pdf
 - Coral USB Accelerator vs Intel Neural Compute Stick 2, https://www.arrow.com/en/research-and-events/articles/google-coral-edge-tpu-accelerator-vs-intel-neural-compute-stick-2
 - Artificial Intelligence and National Security, https://fas.org/sgp/crs/natsec/R45178.pdf
-
+- Ethical Obligations to Protect Client Data when Building Artificial Intelligence Tools: Wigmore Meets AI, https://www.americanbar.org/groups/professional_responsibility/publications/professional_lawyer/27/1/ethical-obligations-protect-client-data-when-building-artificial-intelligence-tools-wigmore-meets-ai/
