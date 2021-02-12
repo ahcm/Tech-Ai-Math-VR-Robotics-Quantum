@@ -100,3 +100,4 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - SETI at Home, https://setiathome.berkeley.edu/sah_about.php
 - Plotting in R, https://ggplot2.tidyverse.org/
 - Interactive Server/Client Webapps, https://shiny.rstudio.com/
+- Python Dependency manager poetry, https://python-poetry.org
