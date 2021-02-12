@@ -1,6 +1,6 @@
 # Tech-Ai-Math-VR-Robotics-Quantum
 
-Collection of links from Jesica Reesby's clubhouse room and telegram channel.
+Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 
 - Deep Learning with Python by François Chollet, https://fchollet.com/
 - Python Notebooks at google research: https://colab.research.google.com
