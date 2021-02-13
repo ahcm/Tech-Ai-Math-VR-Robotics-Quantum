@@ -129,6 +129,8 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - Ethical Obligations to Protect Client Data when Building Artificial Intelligence Tools: Wigmore Meets AI, https://www.americanbar.org/groups/professional_responsibility/publications/professional_lawyer/27/1/ethical-obligations-protect-client-data-when-building-artificial-intelligence-tools-wigmore-meets-ai/
 - The first step is to measure whatever can be easily measured. This is OK as far as it goes. The second step is to disregard that which can't be easily measured or to give it an arbitrary quantitative value. This is artificial and misleading. The third step is to presume that what can't be measured easily really isn't important. This is blindness. The fourth step is to say that what can't be easily measured really doesn't exist. This is suicide. — Daniel Yankelovich (https://en.m.wikipedia.org/wiki/Daniel_Yankelovich), "Corporate Priorities: A continuing study of the new demands on business" (1972).
 - The Greater Good - Mind Field S2 (Ep 1), “Trolley Problem” , https://youtu.be/1sl5KJ69qiA
+- Artificial Psychology: The Psychology of AI, http://www.iiisci.org/journal/CV$/sci/pdfs/iZA532FA.pdf
+- Tay chatbot gone offensive, https://en.m.wikipedia.org/wiki/Tay_(bot)
 
 ## Grapics / 3D
 - https://www.babylonjs.com/demos/pbrglossy/
