@@ -133,4 +133,5 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 ## Grapics / 3D
 - https://www.babylonjs.com/demos/pbrglossy/
 - http://madebyevan.com/webgl-water/
+- https://github.com/amansx/plasma-snakes
 
