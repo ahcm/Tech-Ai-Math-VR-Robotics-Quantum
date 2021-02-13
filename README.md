@@ -131,6 +131,7 @@ Collection of links from Jessica Reesby's clubhouse room and telegram channel.
 - The Greater Good - Mind Field S2 (Ep 1), “Trolley Problem” , https://youtu.be/1sl5KJ69qiA
 - Artificial Psychology: The Psychology of AI, http://www.iiisci.org/journal/CV$/sci/pdfs/iZA532FA.pdf
 - Tay chatbot gone offensive, https://en.m.wikipedia.org/wiki/Tay_(bot)
+- Teachable Machine, Train a computer to recognize your own images, sounds, & poses, https://teachablemachine.withgoogle.com/
 
 ## Grapics / 3D
 - https://www.babylonjs.com/demos/pbrglossy/
